@@ -1,2 +1,2 @@
-# pyhton-basic-program
-# pyhton-basic-program
+# pyhton-basic-programs
+# pyhton-basic-programs
