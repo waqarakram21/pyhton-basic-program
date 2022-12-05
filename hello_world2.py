@@ -1,2 +1,2 @@
 print("hello"); print("world"); print("I'm waqar")
-print("I'm a student at UAF")
+print("I'm a student at university of agriculture.")
