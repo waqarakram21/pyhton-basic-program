@@ -16,7 +16,11 @@ employee_list = {
     12458:
     {"id": 12458, "name": "Paul", "department": "House Floor"},
     7843:
-    {"id":7843, "name":"waqar","department":"computer science"}}
+    {"id":7843, "name":"waqar","department":"computer science"},
+    7776:
+    {"id":7776, "name":"faizan","department":"computer science"},
+    7754:
+    {"id":7754, "name":"zahoor","department":"computer science"}}
      
 def get_employee(id):
    return employee_list[id];
